@@ -52,4 +52,5 @@ ax2.set_ylabel("Wert")
 ax2.set_title("Sortierte Liste")
 
 fig.tight_layout()
+
 plt.show()
